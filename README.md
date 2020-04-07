@@ -14,10 +14,13 @@ Afterwards, I mande API calls to the OpenWeatherMap API to get weather data for 
 
 Using the data from the OpenWeatherMap API, I built a series of scatter plots to visualize the following relationships:
 
-Temperature (F) vs. Latitude
-Humidity (%) vs. Latitude
-Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
+-Temperature (F) vs. Latitude
+
+-Humidity (%) vs. Latitude
+
+-Cloudiness (%) vs. Latitude
+
+-Wind Speed (mph) vs. Latitude
 
 
 
@@ -36,10 +39,5 @@ Wind Speed (mph) vs. Latitude
 -OpenWeatherMap API
 
 -Google Places API
-
--jupyter-gmaps
-
-
-
 
 
